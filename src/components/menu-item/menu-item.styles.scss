@@ -1,5 +1,6 @@
 .menu-item {
     min-width: 30%;
+    //30%
     height: 240px;
     flex: 1 1 auto;
     display: flex;
@@ -7,9 +8,10 @@
     justify-content: center;
     border: 1px solid black;
     margin: 0 7.5px 15px;
-
     background-position: center;
     background-size: cover;
+    
+
 
     &.large {
       height: 380px;
